@@ -10,8 +10,8 @@ What languages used: HTML, CSS and JaveScript.
 <img>Screenshot 2022-09-01 221555.png</img>
 
 ##### Deploy application link
-Git hub url =
-Deployed website url =
+Git hub url =https://github.com/lynnga/Password-gen
+Deployed website url = https://lynnga.github.io/Password-gen/
 
 additonal information:
 Email me at lingamliel@gmail.com
